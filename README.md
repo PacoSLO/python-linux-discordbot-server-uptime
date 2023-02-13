@@ -4,7 +4,7 @@ Discord Bot that shows Linux System Uptime in the Status MSG and via the command
 
 **Installation**
 ------------------
-You need pip install discord.py, pip install -U python-dotenv and pip install uptime on your machine. Then You can run the bot via the pm2 our python3 main.py.
+You need pip install discord.py, pip install -U python-dotenv and pip install uptime on your machine. Then You can run the bot via the pm2 or python3 main.py.
 
 **Features**
 ------------------
