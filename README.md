@@ -11,7 +11,19 @@ You need pip install discord.py, pip install -U python-dotenv and pip install up
 Shows Linux System Uptime in Status Msg and in discord channel via !uptime or !htop command
 
 <img
-  src="https://github.com/PacoSLO/python-discordbot-server-uptime/blob/main/uptime.png"
+  src="https://raw.githubusercontent.com/PacoSLO/python-linux-discordbot-server-uptime/main/uptime4.PNG"
+  alt="Alt text"
+  title="Discord Uptime"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+<img
+  src="https://raw.githubusercontent.com/PacoSLO/python-linux-discordbot-server-uptime/main/htop.PNG"
+  alt="Alt text"
+  title="Discord Uptime"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+  <img
+  src="https://raw.githubusercontent.com/PacoSLO/python-linux-discordbot-server-uptime/main/statusmsg.PNG"
   alt="Alt text"
   title="Discord Uptime"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
